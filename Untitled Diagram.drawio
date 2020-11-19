@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2020-11-19T00:04:54.609Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36 Edg/86.0.622.69" version="13.10.0" etag="imk7ruHzA1zLTSkNvuaj" type="github"><diagram id="uhXueF3WpJiIvvkvNbeo">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-19T00:21:09.152Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36 Edg/86.0.622.69" etag="3YbIGcM4OwK2f8NuYAbK" version="13.10.0" type="github">
+  <diagram id="uhXueF3WpJiIvvkvNbeo" name="Page-1">
+    <mxGraphModel dx="976" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JYWzP_5s_lCYPq6KCB7E-1" value="委外投资管理人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="40" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JYWzP_5s_lCYPq6KCB7E-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JYWzP_5s_lCYPq6KCB7E-2" target="JYWzP_5s_lCYPq6KCB7E-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JYWzP_5s_lCYPq6KCB7E-2" value="基本准入标准&lt;br&gt;（风险与合规部）" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="110" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="JYWzP_5s_lCYPq6KCB7E-3" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JYWzP_5s_lCYPq6KCB7E-1" target="JYWzP_5s_lCYPq6KCB7E-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="230" as="sourcePoint" />
+            <mxPoint x="440" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JYWzP_5s_lCYPq6KCB7E-11" value="基本准入标准&lt;br&gt;（风险与合规部）" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="300" width="110" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

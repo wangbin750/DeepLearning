@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-07T07:06:39.732Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="EjecWYPC3yUffsFYEOFr" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-07T07:07:47.620Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="APeC31cU4KhbHjSaI4hZ" version="14.1.8" type="github">
   <diagram id="uhXueF3WpJiIvvkvNbeo" name="Page-1">
-    <mxGraphModel dx="976" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1394" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -586,6 +586,9 @@
         </mxCell>
         <mxCell id="DOJBjLjpz7inYGZmG2fU-11" value="如为非标资产，&lt;br&gt;项目经理复核" style="rhombus;whiteSpace=wrap;html=1;rounded=0;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="960" y="1870" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="DOJBjLjpz7inYGZmG2fU-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1107" width="1000" height="1013" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
